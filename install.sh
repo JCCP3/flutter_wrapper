@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 ###
 # Check preconditions
 ###
